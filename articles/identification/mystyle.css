@@ -1,0 +1,11 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
+
+.callout {
+  border:2px solid black;
+  background-color:rgb(208, 240, 193);
+}
