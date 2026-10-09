@@ -10,6 +10,17 @@
   background-color:rgb(208, 240, 193);
 }
 
+.callout2 {
+  /* border:2px solid black; */
+  background-color:rgb(214, 235, 205);
+  font-size: 20px;
+  /* text-align: center; */
+  padding-top: 14px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
 body {
     font-size: 25px;
 }
